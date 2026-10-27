@@ -1,0 +1,2 @@
+GT4500,10,1.0,10,0.0 # primary 1.0 hibaarany, secondary jo
+TORPEDO,SINGLE # primary hibazik, secondary nem lohet

@@ -1,0 +1,3 @@
+GT4500,1,0.0,0,0.0 # csak a primaryban van
+TORPEDO,SINGLE # kilovi azt az egyet
+TORPEDO,SINGLE # ujra probal loni, de mindegyik ures
